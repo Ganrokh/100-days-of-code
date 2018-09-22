@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: Monday, September 17th, 2018
+### Day -3: Monday, September 17th, 2018
 
 **Today's Progress:** Bought Colt Steele's "The Web Developer Bootcamp" course on Udemy. Watched the first introduction video.
 
 **Thoughts:** I have that giddy feeling that I always have when I'm starting something new. I'm excited. Let's hope that I can stick to it.
 
 
-### Day 0: Tuesday, September 18th, 2018
+### Day -2: Tuesday, September 18th, 2018
 
 **Today's Progress:** Went through the syllabus for the course, installed Sublime Text Editor.
 
@@ -16,7 +16,7 @@
   I like how Sublime is lightweight while being very intuitive. I work on a Windows laptop, but it's big, bulky, and is sort of a pain to travel with. I enjoy having a Chromebook when I travel, so I'm interested in my options for coding from a Chromebook. This shows me that web dev is one possibility.
 
 
-### Day 0: Wednesday, September 19th, 2018
+### Day -1: Wednesday, September 19th, 2018
 
 **Today's Progress:** Very early, very basic HTML.
 
@@ -38,8 +38,12 @@
 
 ### Day 1: Friday, September 21th, 2018
 
-**Today's Progress:** Discovered the 100 Days of Code challenge. Made a long string of tweets on Twitter about why I'm deciding to do this. Learned more about using GitHub.
+**Today's Progress:** Discovered the 100 Days of Code challenge. Made a long string of tweets on Twitter about why I'm deciding to do this. Learned more about using GitHub. Learned about HTML tables. Began basic CSS like fonts, font sizes, font color, image sizes, etc.
 
-**Thoughts:** Since a great part of my learning this week has been mainly review and setting up various accounts nad software, I'm considering today day 1. Today, things change. GitHub seems pretty intimidating on the outside, but maybe that's just a thin veil for an easy-to-use service.
+**Thoughts:** Since a great part of my learning this week has been mainly review and setting up various accounts and software, I'm considering today day 1. Today, things change. GitHub seems pretty intimidating on the outside, but maybe that's just a thin veil for an easy-to-use service. 
+
+  I like Colt Steele's method of teaching. I almost wish I could physically attend one of his classes. I like the Pokemon table he had us make. During weeknights, I watch TV with my mom while I work on my laptop. I plan on using these times to work on FreeCodeCamp and The Odin Project since I prefer to not have sound on during this time, or use headphones. I took my first look at TOP and FCC tonight. I prefer FCC's method of "look at this piece of code, now you do it" to TOP's "here's everything you need to know, now do this big project". I wish TOP jumped into HTML/CSS quicker to match FCC and the Udemy class. I'm thinking about pausing TOP for now because I'm not sure if it's a good idea to learn Ruby and JavaScript at the same time. I learned Kotlin and Java at the same time, but frameworks like JS and Ruby seem more in-depth.
+  
+  As for what I actually learned, it still feels somewhat like review. For HTML, I learned about tables. That was mostly review. I'm still in HTML for the Udemy course, but I did enough FreeCodeCamp to get into CSS. CSS doesn't feel like review, but it still feels somewhat familiar, and I took to it quickly. Assigning classes is new to me, though. All and all, this feels like the tip of the iceberg.
 
 **Link to work:** [Twitter rant](https://twitter.com/Ganrokh/status/1043177335812501504)
