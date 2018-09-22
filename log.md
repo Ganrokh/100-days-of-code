@@ -36,7 +36,7 @@
   I also setup my GitHub account today. I've only slightly used GitHub in the past. I know its purpose, but I never really understood a lot of the terms. Git? Pull Request? Commit? I know what "fork" is from my experience in cryptocurrency.
 
 
-### Day 1: Friday, September 21th, 2018
+### Day 1: Friday, September 21st, 2018
 
 **Today's Progress:** Discovered the 100 Days of Code challenge. Made a long string of tweets on Twitter about why I'm deciding to do this. Learned more about using GitHub. Learned about HTML tables. Began basic CSS like fonts, font sizes, font color, image sizes, etc.
 
@@ -46,4 +46,10 @@
   
   As for what I actually learned, it still feels somewhat like review. For HTML, I learned about tables. That was mostly review. I'm still in HTML for the Udemy course, but I did enough FreeCodeCamp to get into CSS. CSS doesn't feel like review, but it still feels somewhat familiar, and I took to it quickly. Assigning classes is new to me, though. All and all, this feels like the tip of the iceberg.
 
-**Link to work:** [Twitter rant](https://twitter.com/Ganrokh/status/1043177335812501504)
+
+### Day 2: Saturday, September 22nd, 2018
+
+**Today's Progress:** Learned about form tags in HTML.
+
+**Thoughts:** I like form tags. I like all of the different options for them. They feel *slightly* overwhelming, but that's okay. Part of me is afraid that I won't remember how to make all different kinds of forms, but I have to remember that programming is partially about the art of googling. I used my newfound knowledge to make a very basic D&D 5e character sheet. I'm not uploading it yet because it can take a lot more work and look much better, but Matt Mercer would be proud.
+
