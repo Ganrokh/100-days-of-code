@@ -63,8 +63,8 @@
 
 ### Day 2: Wednesday, September 26th, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Covered a ton of CSS. Advanced selectors, specificity, inheritance, etc.
 
-**Thoughts:** 
+**Thoughts:** So many different types of selectors and governing rules of specificity. I can tell that I'm slowly memorizing everything. What's more important, I've realized that I can now tell the difference between poorly-written HTML/CSS and good HTML/CSS.
 
 
