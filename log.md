@@ -61,7 +61,7 @@
 **Thoughts:** Form tags seem complex and slightly overwhelming in terms of all of their attributes and how they interconnect. I don't want to admit how convoluted they seem because I know that much more complex things await me in coding. I'll get used to it. At least I'm realizing the power of the MDN Web Docs and Stack Overflow!
 
 
-### Day 2: Wednesday, September 26th, 2018
+### Day 4: Wednesday, September 26th, 2018
 
 **Today's Progress:** Covered a ton of CSS. Advanced selectors, specificity, inheritance, etc.
 
