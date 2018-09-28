@@ -68,3 +68,10 @@
 **Thoughts:** So many different types of selectors and governing rules of specificity. I can tell that I'm slowly memorizing everything. What's more important, I've realized that I can now tell the difference between poorly-written HTML/CSS and good HTML/CSS.
 
 
+### Day 5: Thursday, September 27th, 2018
+
+**Today's Progress:** Covered a lot more of CSS, mainly about the box model.
+
+**Thoughts:** The box model is something that I've noticed a lot through the years, anytime I need to inspect a page for whatever reason. I've always noticed a box shape around everthing, no matter what shape anything was. I'm sort of glad to know that I was picking up on some concept in the past and wasn't even aware of it. I can't wait to work more with box models.
+
+I've come to the realization today that a lot of famcy webpages that I've seen through the years aren't collections of well-played pictures, but are just pages with really fancy and complex CSS. That's slightly intimidating, honestly. I can't wait until I can do that.
