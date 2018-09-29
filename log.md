@@ -75,3 +75,10 @@
 **Thoughts:** The box model is something that I've noticed a lot through the years, anytime I need to inspect a page for whatever reason. I've always noticed a box shape around everthing, no matter what shape anything was. I'm sort of glad to know that I was picking up on some concept in the past and wasn't even aware of it. I can't wait to work more with box models.
 
 I've come to the realization today that a lot of famcy webpages that I've seen through the years aren't collections of well-played pictures, but are just pages with really fancy and complex CSS. That's slightly intimidating, honestly. I can't wait until I can do that.
+
+
+### Day 6: Friday, September 28th, 2018
+
+**Today's Progress:** Worked with colors, hues, and animations with pure CSS.
+
+**Thoughts:** I'm amazed at how much you can do with animation using CSS. I'm not an artsy person. I never took any art classes in school besides photography. The fact that I can essentially "code" my way to making good, basic art and animations using pure CSS makes me a little glad. I'll still likely need to get good with graphic design, though. Also, I'm having a hard time understanding Bezier Curves. 
