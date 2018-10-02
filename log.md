@@ -82,3 +82,10 @@ I've come to the realization today that a lot of famcy webpages that I've seen t
 **Today's Progress:** Worked with colors, hues, and animations with pure CSS.
 
 **Thoughts:** I'm amazed at how much you can do with animation using CSS. I'm not an artsy person. I never took any art classes in school besides photography. The fact that I can essentially "code" my way to making good, basic art and animations using pure CSS makes me a little glad. I'll still likely need to get good with graphic design, though. Also, I'm having a hard time understanding Bezier Curves. 
+
+
+### Day 7: Monday, October 1st, 2018
+
+**Today's Progress:** More CSS practice, mainly with layouts. Made a photo blog and a Tic-Tac-Toe board.
+
+**Thoughts:** I'm glad to start making things that look somewhat-decent. Even if it's just a page of photos and getting them to line up properly, that is more exciting than basic text. I mainly worked on the Udemy course today. Day 6 was FreeCodeCamp, which is where got into CSS shapes. I'm not that far yet with Colt Steele's course. I tend to have an easier time learning from Colt Steele than I do FCC, but that may be because he tends to do a lot more examples and bigger projects that have several concepts working together. That said, I'm still gaining a lot from FCC as well.
