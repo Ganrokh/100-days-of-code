@@ -89,3 +89,10 @@ I've come to the realization today that a lot of famcy webpages that I've seen t
 **Today's Progress:** More CSS practice, mainly with layouts. Made a photo blog and a Tic-Tac-Toe board.
 
 **Thoughts:** I'm glad to start making things that look somewhat-decent. Even if it's just a page of photos and getting them to line up properly, that is more exciting than basic text. I mainly worked on the Udemy course today. Day 6 was FreeCodeCamp, which is where got into CSS shapes. I'm not that far yet with Colt Steele's course. I tend to have an easier time learning from Colt Steele than I do FCC, but that may be because he tends to do a lot more examples and bigger projects that have several concepts working together. That said, I'm still gaining a lot from FCC as well.
+
+
+### Day 8: Tuesday, October 2nd, 2018
+
+**Today's Progress:** Made a simple blog with pure HTML & CSS.
+
+**Thoughts:** I'm going to keep this short because it's late and I have an early day tomorrow. Following Colt steele's course, today, I made a simple blog. It's nothing too flashy, just a page showcasing two blog posts using HTML and CSS. This is the first thing that I've made from scratch without outside help or guidance. It's a weird feeling. I'm proud of it, but I also know that this is something that was very simple to do. Also, I used Bacon Ipsum, so now I'm hungry.
