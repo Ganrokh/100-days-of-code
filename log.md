@@ -96,3 +96,10 @@ I've come to the realization today that a lot of famcy webpages that I've seen t
 **Today's Progress:** Made a simple blog with pure HTML & CSS.
 
 **Thoughts:** I'm going to keep this short because it's late and I have an early day tomorrow. Following Colt steele's course, today, I made a simple blog. It's nothing too flashy, just a page showcasing two blog posts using HTML and CSS. This is the first thing that I've made from scratch without outside help or guidance. It's a weird feeling. I'm proud of it, but I also know that this is something that was very simple to do. Also, I used Bacon Ipsum, so now I'm hungry.
+
+
+### Day[9]: Wednesday, October 3rd, 2018
+
+**Today's Progress:** Studied accessibility tags.
+
+**Thoughts:** Man, there are a lot of these. As someone who is lucky enough to not have need of accessibility anything, it's going to be hard to remember to utilize these. I should be starting FreeCodeCamp's responsive web design projects by Friday. Exciting!
