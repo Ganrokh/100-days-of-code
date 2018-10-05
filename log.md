@@ -103,3 +103,12 @@ I've come to the realization today that a lot of famcy webpages that I've seen t
 **Today's Progress:** Studied accessibility tags.
 
 **Thoughts:** Man, there are a lot of these. As someone who is lucky enough to not have need of accessibility anything, it's going to be hard to remember to utilize these. I should be starting FreeCodeCamp's responsive web design projects by Friday. Exciting!
+
+
+### Day 10: Thursday, October 5th, 2018
+
+**Today's Progress:** Studied Bootstrap and Flexbox.
+
+**Thoughts:** I really like Bootstrap. It's easy to use, and their documentation is phenomenal. That said, I initially felt like it was cheating in a way. My hunch is that a lot of people felt that way as well whenever they first learned Bootstrap. However, once I started looking at some of the stock Boostrap features, I started recognizing some from other websites that I use. I started inspecting other websites and realized that a ton of professional sites use Bootstrap. It makes sense now. There's no need to reinvent the wheel. That makes me feel better.
+
+Flexbox is more intimidating. Like a lot of other things in CSS, it's one of those things that just has tons of different options, and it's going to be a while for me to simply get good at using it.
