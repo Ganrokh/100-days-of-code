@@ -121,3 +121,14 @@ Flexbox is more intimidating. Like a lot of other things in CSS, it's one of tho
 **Thoughts:** First two projects down and accepted! One was fun. The other, I was started getting really tired and wanted to get it done. One I'm proud of, the other could use more work to look better (even though I intentionally gave it a terrible background). I'll likely go back to fix it up later.
 
 **Links to Projects**: https://codepen.io/Ganrokh/full/aRmNoN/ https://codepen.io/Ganrokh/full/MPjpgG/
+
+
+### Day 12: Tuesday, October 7th, 2018
+
+**Today's Progress:** Finished the third responsive web design project on FreeCodeCamp.
+
+**Thoughts:** A few days ago, I made a prduct landing page myself without realizing that it would be a future project in FCC. I decided to copy my HTML/CSS from that page into CodePen and tried to add everything that the project needed.
+
+It was much harder than I thought it would be. I designed that page using Bootstrap, and some elements that were needed for the FCC project weren't sitting well with Bootstrap, so I had to rewrite parts of the page. In addition to this, I was starting to get really sleepy, so I decided to "brute force" some of the tests. It broke parts of the page, but the page ended up passing all of the tests. Well, almost all. The media query test is bugged and will only accept a specific media query, which I had to google to find. All and all, the page doesn't look *great* and parts of it are clearly broken, but I'll fix it later.
+
+**Links to Projects**: https://codepen.io/Ganrokh/full/pxeLqj/
