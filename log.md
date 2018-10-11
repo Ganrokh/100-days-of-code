@@ -132,3 +132,12 @@ Flexbox is more intimidating. Like a lot of other things in CSS, it's one of tho
 It was much harder than I thought it would be. I designed that page using Bootstrap, and some elements that were needed for the FCC project weren't sitting well with Bootstrap, so I had to rewrite parts of the page. In addition to this, I was starting to get really sleepy, so I decided to "brute force" some of the tests. It broke parts of the page, but the page ended up passing all of the tests. Well, almost all. The media query test is bugged and will only accept a specific media query, which I had to google to find. All and all, the page doesn't look *great* and parts of it are clearly broken, but I'll fix it later.
 
 **Links to Projects**: https://codepen.io/Ganrokh/full/pxeLqj/
+
+
+### Day 13: Thursday, October 9th, 2018 (Morning)
+
+**Today's Progress:** Finished most of the HTML for the FreeCodeCamp documentation project.
+
+**Thoughts:** I normally do my coding at night. However, I was really tired last night and couldn't focus. As a result, I decided to do an hour early this morning, and another hour late night tonight.
+
+I finished most of the HTML for the documentation project, everything except the navbar. I've come to realize that I can sit down and pump out a ton of pure HTML no problem, but I'm not able to do the same with CSS yet. I need to work on my CSS more. I can envision how I want a page to look, I just have a hard time figuring out where to start with the CSS.
