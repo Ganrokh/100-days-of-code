@@ -141,3 +141,17 @@ It was much harder than I thought it would be. I designed that page using Bootst
 **Thoughts:** I normally do my coding at night. However, I was really tired last night and couldn't focus. As a result, I decided to do an hour early this morning, and another hour late night tonight.
 
 I finished most of the HTML for the documentation project, everything except the navbar. I've come to realize that I can sit down and pump out a ton of pure HTML no problem, but I'm not able to do the same with CSS yet. I need to work on my CSS more. I can envision how I want a page to look, I just have a hard time figuring out where to start with the CSS.
+
+
+### Day 14: Thursday, October 9th, 2018 (Evening)
+
+**Today's Progress:** Finished the rest of the FreeCodeCamp responsive web design projects. Earned the certificate.
+
+**Thoughts:** I'm proud of myself. I got the certificate! Yay! I stayed up way too late to finish that last project!
+
+I am really excited to be moving on to JavaScript. I'm a much better coder than I am a designer. I guess you could say that I'm more of a backend person. However, I want to be fullstack, so at some point, I need to dig deeper into CSS and really learn it. I still feel like a CSS newbie.
+
+**Links to Projects**: https://codepen.io/Ganrokh/full/pxwYYm/
+
+**Link to Certificate**: https://www.freecodecamp.org/certification/ganrokh/responsive-web-design
+
