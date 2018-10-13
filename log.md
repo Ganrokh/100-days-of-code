@@ -105,7 +105,7 @@ I've come to the realization today that a lot of famcy webpages that I've seen t
 **Thoughts:** Man, there are a lot of these. As someone who is lucky enough to not have need of accessibility anything, it's going to be hard to remember to utilize these. I should be starting FreeCodeCamp's responsive web design projects by Friday. Exciting!
 
 
-### Day 10: Thursday, October 5th, 2018
+### Day 10: Thursday, October 4th, 2018
 
 **Today's Progress:** Studied Bootstrap and Flexbox.
 
@@ -114,7 +114,7 @@ I've come to the realization today that a lot of famcy webpages that I've seen t
 Flexbox is more intimidating. Like a lot of other things in CSS, it's one of those things that just has tons of different options, and it's going to be a while for me to simply get good at using it.
 
 
-### Day 11: Friday, October 6th, 2018
+### Day 11: Friday, October 5th, 2018
 
 **Today's Progress:** Finished the first 2 responsive web design projects on FreeCodeCamp.
 
@@ -123,7 +123,7 @@ Flexbox is more intimidating. Like a lot of other things in CSS, it's one of tho
 **Links to Projects**: https://codepen.io/Ganrokh/full/aRmNoN/ https://codepen.io/Ganrokh/full/MPjpgG/
 
 
-### Day 12: Tuesday, October 7th, 2018
+### Day 12: Tuesday, October 9th, 2018
 
 **Today's Progress:** Finished the third responsive web design project on FreeCodeCamp.
 
@@ -134,7 +134,7 @@ It was much harder than I thought it would be. I designed that page using Bootst
 **Links to Projects**: https://codepen.io/Ganrokh/full/pxeLqj/
 
 
-### Day 13: Thursday, October 9th, 2018 (Morning)
+### Day 13: Thursday, October 11th, 2018 (Morning)
 
 **Today's Progress:** Finished most of the HTML for the FreeCodeCamp documentation project.
 
@@ -143,7 +143,7 @@ It was much harder than I thought it would be. I designed that page using Bootst
 I finished most of the HTML for the documentation project, everything except the navbar. I've come to realize that I can sit down and pump out a ton of pure HTML no problem, but I'm not able to do the same with CSS yet. I need to work on my CSS more. I can envision how I want a page to look, I just have a hard time figuring out where to start with the CSS.
 
 
-### Day 14: Thursday, October 9th, 2018 (Evening)
+### Day 14: Thursday, October 11th, 2018 (Evening)
 
 **Today's Progress:** Finished the rest of the FreeCodeCamp responsive web design projects. Earned the certificate.
 
@@ -155,3 +155,9 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 
 **Link to Certificate**: https://www.freecodecamp.org/certification/ganrokh/responsive-web-design
 
+
+### Day 13: Friday, October 12th, 2018
+
+**Today's Progress:** Brushed up on CSS in my FCC projects. Began learning JavaScript.
+
+**Thoughts:** I really like JavaScript. I'm much more of a coder than I am a designer. Even though this is the first time I'm learning JS, I'm familiar with Python and Kotlin. Being familiar with them makes JavaScript easier to learn. It's the same concepts, like variables, boolean, if/else statements, etc, just with different syntax.
