@@ -156,8 +156,15 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Link to Certificate**: https://www.freecodecamp.org/certification/ganrokh/responsive-web-design
 
 
-### Day 13: Friday, October 12th, 2018
+### Day 15: Friday, October 12th, 2018
 
 **Today's Progress:** Brushed up on CSS in my FCC projects. Began learning JavaScript.
 
 **Thoughts:** I really like JavaScript. I'm much more of a coder than I am a designer. Even though this is the first time I'm learning JS, I'm familiar with Python and Kotlin. Being familiar with them makes JavaScript easier to learn. It's the same concepts, like variables, boolean, if/else statements, etc, just with different syntax.
+
+
+### Day 16: Friday, October 16th, 2018
+
+**Today's Progress:** Practiced JavaScript for and while loops.
+
+**Thoughts:** Just like with if/else statements, I noticed that the loop syntax for Javascript is similar to other languages that I'm familiar with, so this wasn't hard at all for me to pick up.
