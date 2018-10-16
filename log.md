@@ -163,7 +163,7 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Thoughts:** I really like JavaScript. I'm much more of a coder than I am a designer. Even though this is the first time I'm learning JS, I'm familiar with Python and Kotlin. Being familiar with them makes JavaScript easier to learn. It's the same concepts, like variables, boolean, if/else statements, etc, just with different syntax.
 
 
-### Day 16: Friday, October 16th, 2018
+### Day 16: Monday, October 15th, 2018
 
 **Today's Progress:** Practiced JavaScript for and while loops.
 
