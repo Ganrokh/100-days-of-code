@@ -168,3 +168,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** Practiced JavaScript for and while loops.
 
 **Thoughts:** Just like with if/else statements, I noticed that the loop syntax for Javascript is similar to other languages that I'm familiar with, so this wasn't hard at all for me to pick up.
+
+
+### Day 17: Tuesday, October 16th, 2018
+
+**Today's Progress:** Practiced JavaScript functions.
+
+**Thoughts:** I have less experience with functions than I do with other aspects of JavaScript based on my experience with other languages. However, I still picked up functions pretty easily. That said, I think I need to practice loops more.
