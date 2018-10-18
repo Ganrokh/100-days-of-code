@@ -175,3 +175,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** Practiced JavaScript functions.
 
 **Thoughts:** I have less experience with functions than I do with other aspects of JavaScript based on my experience with other languages. However, I still picked up functions pretty easily. That said, I think I need to practice loops more.
+
+
+### Day 18: Wednesday, October 17th, 2018
+
+**Today's Progress:** More practice with JavaScript functions.
+
+**Thoughts:** I'm having a little bit of a hard time grasping local variables and global variables. I get their differences, I just don't think I'm really grasping the proper syntax. Needing to reference the materials a lot. I'm also struggling a bit with the idea of functions returning undefined variables. I just need more practice.
