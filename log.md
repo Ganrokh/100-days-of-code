@@ -182,3 +182,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** More practice with JavaScript functions.
 
 **Thoughts:** I'm having a little bit of a hard time grasping local variables and global variables. I get their differences, I just don't think I'm really grasping the proper syntax. Needing to reference the materials a lot. I'm also struggling a bit with the idea of functions returning undefined variables. I just need more practice.
+
+
+### Day 19: Thursday, October 18th, 2018
+
+**Today's Progress:** Even more practice with JavaScript functions, this time on HackerRank and LeetCode.
+
+**Thoughts:** I decided to practice functions more before moving on in FreeCodeCamp or the Udemy course. I've heard a lot of talk about HackerRank and LeetCode being good for practice problems. I tried HackerRank first. I don't like how there is so much boilerplate to deal with in each problem. I tried LeetCode after that. There is much less boilerplate to deal with. It's much easier to jump in and start working on the solution instead of figuring out where the solution needs to go in the boilerplate. I'm still going to use both going forward (since apparently recruiters look at both), but I'll likely be devoting more time to LeetCode.
