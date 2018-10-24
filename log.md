@@ -207,6 +207,6 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 
 ### Day 22: Tuesday, October 23rd, 2018
 
-**Today's Progress:** 
+**Today's Progress:** More practice with JavaScript loops.
 
-**Thoughts:** 
+**Thoughts:** Today was practice with nesting JavaScript loops and if/else statements. I'm good at them. I need more practice with working with arrays.
