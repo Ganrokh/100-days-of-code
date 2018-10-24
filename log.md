@@ -191,8 +191,22 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Thoughts:** I decided to practice functions more before moving on in FreeCodeCamp or the Udemy course. I've heard a lot of talk about HackerRank and LeetCode being good for practice problems. I tried HackerRank first. I don't like how there is so much boilerplate to deal with in each problem. I tried LeetCode after that. There is much less boilerplate to deal with. It's much easier to jump in and start working on the solution instead of figuring out where the solution needs to go in the boilerplate. I'm still going to use both going forward (since apparently recruiters look at both), but I'll likely be devoting more time to LeetCode.
 
 
-### Day 20: Friday, October 18th, 2018
+### Day 20: Friday, October 19th, 2018
 
 **Today's Progress:** More practice with basic JavaScript, mainly functions, array manipulation, and objects.
 
 **Thoughts:** I'm getting better with JS. The only thing that I'm rocky with is global vs local variables in functions, and how to properly use "return" in functions. I just need more practice.
+
+
+### Day 21: Monday, October 22nd, 2018
+
+**Today's Progress:** Completed JavaScript challenges on HackerRank.
+
+**Thoughts:** I didn't have a lot of time today, so I spent it doing daily challenges on HackerRank (I still like LeetCode better, but HackerRank has a "30 Days of Code" thing that I'm doing). It was mainly working with loops and if/else statments. I hate figuring out how to navigate their boilerplate, but as least I'm still practicing JavaScript concepts.
+
+
+### Day 22: Tuesday, October 23rd, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
