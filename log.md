@@ -210,3 +210,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** More practice with JavaScript loops.
 
 **Thoughts:** Today was practice with nesting JavaScript loops and if/else statements. I'm good at them. I need more practice with working with arrays.
+
+
+### Day 23: Wednesday, October 24th, 2018
+
+**Today's Progress:** Practiced CSS using Bootstrap 4.
+
+**Thoughts:** Colt Steele's class is about to push into JS arrays and objects while FreeCodeCamp is about to push into Regex. I decided to spend today practicing CSS and Bootstrap 4. I'm not great at CSS, and both of my courses are currently diving into JavaScript. I don't know if I'll ever be great at CSS, but I don't want to learn what skills I've managed to pick up.
