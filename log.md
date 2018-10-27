@@ -217,3 +217,19 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** Practiced CSS using Bootstrap 4.
 
 **Thoughts:** Colt Steele's class is about to push into JS arrays and objects while FreeCodeCamp is about to push into Regex. I decided to spend today practicing CSS and Bootstrap 4. I'm not great at CSS, and both of my courses are currently diving into JavaScript. I don't know if I'll ever be great at CSS, but I don't want to learn what skills I've managed to pick up.
+
+
+### Day 24: Thursday, October 25th, 2018
+
+**Today's Progress:** More practice with CSS using Bootstrap 4.
+
+**Thoughts:** More practice with CSS. CSS is one of the few things that I don't think I'll ever feel confident with. I'm just not artistically-inclined. I'm good with perfecting layouts and colors, but I'm terrible with animations and making anything original using pure CSS.
+
+
+### Day 23: Wednesday, October 24th, 2018
+
+**Today's Progress:** Last day of CSS practice. Made a mock Battle.net homepage.
+
+**Thoughts:** Today was going to be my last dedicated CSS practice day for awhile. I made a mock Blizzard Battle.net homepage. Nothing fancy. I like how it turned out. I need more practice with the Bootstrap classes that change margins/borders/etc.
+
+**Link to Project:** https://htmlpreview.github.io/?https://github.com/Ganrokh/Mock-BattleNet-Homepage/blob/master/index.html
