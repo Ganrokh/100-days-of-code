@@ -226,7 +226,7 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Thoughts:** More practice with CSS. CSS is one of the few things that I don't think I'll ever feel confident with. I'm just not artistically-inclined. I'm good with perfecting layouts and colors, but I'm terrible with animations and making anything original using pure CSS.
 
 
-### Day 23: Wednesday, October 24th, 2018
+### Day 25: Friday, October 26th, 2018
 
 **Today's Progress:** Last day of CSS practice. Made a mock Battle.net homepage.
 
