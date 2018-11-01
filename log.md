@@ -233,3 +233,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Thoughts:** Today was going to be my last dedicated CSS practice day for awhile. I made a mock Blizzard Battle.net homepage. Nothing fancy. I like how it turned out. I need more practice with the Bootstrap classes that change margins/borders/etc.
 
 **Link to Project:** https://htmlpreview.github.io/?https://github.com/Ganrokh/Mock-BattleNet-Homepage/blob/master/index.html
+
+
+### Day 26: Wednesday, October 31st, 2018
+
+**Today's Progress:** Returned to JavaScript array practice.
+
+**Thoughts:** I had to take a couple extra days off because it's the end of the month and work got busy. Today, I returned to learning JavaScript, mainly arrays. I've been on arrays for a few days now, but I want them completely drilled into my head. I mainly just practiced various methods with them.
