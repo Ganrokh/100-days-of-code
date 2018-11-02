@@ -240,3 +240,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** Returned to JavaScript array practice.
 
 **Thoughts:** I had to take a couple extra days off because it's the end of the month and work got busy. Today, I returned to learning JavaScript, mainly arrays. I've been on arrays for a few days now, but I want them completely drilled into my head. I mainly just practiced various methods with them.
+
+
+### Day 27: Thursday, November 1st, 2018
+
+**Today's Progress:** Learned about forEach() in JavaScript. Made a todo list app.
+
+**Thoughts:** I understood forEach() pretty easily. Today was working on Colt Steele's course. We did a code-along for building a simple todo list app. I probably should have tried building it by myself before doing the code-along. I need to better understand the idea of defining functions later in code, and then actually calling those functions.
