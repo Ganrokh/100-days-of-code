@@ -244,6 +244,13 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 
 ### Day 27: Thursday, November 1st, 2018
 
-**Today's Progress:** Learned about forEach() in JavaScript. Made a todo list app.
+**Today's Progress:** Made a Todo list app with JavaScript.
 
-**Thoughts:** I understood forEach() pretty easily. Today was working on Colt Steele's course. We did a code-along for building a simple todo list app. I probably should have tried building it by myself before doing the code-along. I need to better understand the idea of defining functions later in code, and then actually calling those functions.
+**Thoughts:** This is the first "real thing" that I've made with JS. It was pretty easy to make. Obviously it's rudimentary and requires typing commands to get it to work. I'm starting to understand the importance of user-friendly UI.
+
+
+### Day 28: Tuesday, November 6th, 2018
+
+**Today's Progress:** JavaScript array and objects practice.
+
+**Thoughts:** Life getting busy again and a general lack of energy forced me to take a few days off again. I used my day back to practice array and object manipulation. Surprisingly, I haven't forgotten a thing in my short haitus. Yay!
