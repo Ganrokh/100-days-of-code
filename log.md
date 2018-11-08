@@ -254,3 +254,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** JavaScript array and objects practice.
 
 **Thoughts:** Life getting busy again and a general lack of energy forced me to take a few days off again. I used my day back to practice array and object manipulation. Surprisingly, I haven't forgotten a thing in my short haitus. Yay!
+
+
+### Day 29: Wednesday, November 7th, 2018
+
+**Today's Progress:** JavaScript objects and methods practice.
+
+**Thoughts:** Getting better with JS objects. Today, I learned about methods. They were a bit hard to grasp at first (actually using a method found in an object), but then I found out that JS libraries (even the console) are just objects filled with methods. That's made them easier to understand.
