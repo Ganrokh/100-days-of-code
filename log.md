@@ -261,3 +261,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** JavaScript objects and methods practice.
 
 **Thoughts:** Getting better with JS objects. Today, I learned about methods. They were a bit hard to grasp at first (actually using a method found in an object), but then I found out that JS libraries (even the console) are just objects filled with methods. That's made them easier to understand.
+
+
+### Day 30: Thursday, November 8th, 2018
+
+**Today's Progress:** First introduction to DOM manipulation.
+
+**Thoughts:** I had no idea what to expect going into DOM manipulation. For all other terms and jargon in coding, I've at least heard of. That's not the case with DOM. It makes sense now that it's what allows JavaScript to work with HTML. Selectors are pretty easy to grasp, just need to work on the syntax. The fact that HTML tags are by default JavaScript objects sort of blows my mind.
