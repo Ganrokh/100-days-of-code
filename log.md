@@ -268,3 +268,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** First introduction to DOM manipulation.
 
 **Thoughts:** I had no idea what to expect going into DOM manipulation. For all other terms and jargon in coding, I've at least heard of. That's not the case with DOM. It makes sense now that it's what allows JavaScript to work with HTML. Selectors are pretty easy to grasp, just need to work on the syntax. The fact that HTML tags are by default JavaScript objects sort of blows my mind.
+
+
+### Day 31: Friday, November 9th, 2018
+
+**Today's Progress:** First introduction to RegEx.
+
+**Thoughts:** RegEx is interesting. All the little snytaxes are interesting. The concept is easy to grasp, it's just hard understanding all of the different little Syntaxes. I appreciate FreeCodeCamp for simplifying everything, but I think some of the challenges regarding certain syntaxes were simplified too much. I had to do extra googling to really understand them. I have a feeling that I'm going to be studying RegEx a lot just to better understand the syntax.
