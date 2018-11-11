@@ -275,3 +275,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** First introduction to RegEx.
 
 **Thoughts:** RegEx is interesting. All the little snytaxes are interesting. The concept is easy to grasp, it's just hard understanding all of the different little Syntaxes. I appreciate FreeCodeCamp for simplifying everything, but I think some of the challenges regarding certain syntaxes were simplified too much. I had to do extra googling to really understand them. I have a feeling that I'm going to be studying RegEx a lot just to better understand the syntax.
+
+
+### Day 32: Saturday, November 10th, 2018
+
+**Today's Progress:** First introduction to debugging and data structures.
+
+**Thoughts:** Data science has always been a massive interest to me. I just love looking at data and working with it. If I was back in college 6 years ago and I knew that data science was even a field of study, I likely would have pursued it. I know that data structures are a very basic concept of data science, but I'm happy to even be at the very tip of the iceberg of the field. I can't wait to start the algorithm section of FreeCodeCamp.
