@@ -282,3 +282,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** First introduction to debugging and data structures.
 
 **Thoughts:** Data science has always been a massive interest to me. I just love looking at data and working with it. If I was back in college 6 years ago and I knew that data science was even a field of study, I likely would have pursued it. I know that data structures are a very basic concept of data science, but I'm happy to even be at the very tip of the iceberg of the field. I can't wait to start the algorithm section of FreeCodeCamp.
+
+
+### Day 33: Sunday, November 11th, 2018
+
+**Today's Progress:** First introduction to algorithms.
+
+**Thoughts:** I surprised myself today. I breezed through all of the algorithm challenges on FreeCodeCamp except one. That one that I didn't breeze through involved comparing characters of two strings, and sending "true" if string A contained all of the characters in string B, and "false" otherwise. For that one, I A) didn't completely forgot that indexOf() existed, and B) didn't realize that one string would contain both capitalized and lowercase letters. The challenge was to compare them regardless of capitalization. Regardless, breezing through most of those challenges does wonders for my confidence!
