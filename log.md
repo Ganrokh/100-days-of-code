@@ -289,3 +289,10 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 **Today's Progress:** First introduction to algorithms.
 
 **Thoughts:** I surprised myself today. I breezed through all of the algorithm challenges on FreeCodeCamp except one. That one that I didn't breeze through involved comparing characters of two strings, and sending "true" if string A contained all of the characters in string B, and "false" otherwise. For that one, I A) didn't completely forgot that indexOf() existed, and B) didn't realize that one string would contain both capitalized and lowercase letters. The challenge was to compare them regardless of capitalization. Regardless, breezing through most of those challenges does wonders for my confidence!
+
+
+### Day 34: Tuesday, November 13th, 2018
+
+**Today's Progress:** More practice with DOM manipulation and JS objects.
+
+**Thoughts:** I'm picking up DOM manipulation pretty easy. However, I'm struggling to really understand what JS prototypes are and how they're different from normal objects. I haven't quite grasped when to add ".prototype" to a line of code yet.
