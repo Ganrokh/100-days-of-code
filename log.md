@@ -312,3 +312,10 @@ He seemed immortal. Until recently, he always looked the same age. He was the Go
 **Thoughts:** I wasn't grasping JS prototypes at all yesterday. Instead of coding today, I spent most of my time reading up on prototypes. I'd like to give a shoutout to JavaScript is Sexy for giving a thorough, ELI5 rundown on prototypes. I now fully understand them.
 
 **Link to JS is Sexy's article:** http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+
+
+### Day 36: Friday, November 16th, 2018
+
+**Today's Progress:** Finished the Object-Oriented Programming section of FreeCodeCamp.
+
+**Thoughts:** It was a bit of a slog. I feel like most of the concepts stuck, but a few didn't. I'll likely want to redo this section in the future.
