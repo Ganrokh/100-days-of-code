@@ -326,3 +326,5 @@ He seemed immortal. Until recently, he always looked the same age. He was the Go
 **Today's Progress:** Routine JavaScript practice and beginning ES6.
 
 **Thoughts:** Thanksgiving forced me to take a few extra days off than I had planned. I started with JavaScript practice to clean a bit of dust off the gears. I began researching ES6 via FreeCodeCamp. Because I'm new to JavaScript, I don't really understand what bits I've learned are a part of base JS and what bits are a part of ES6, although I do see value in the ES6 bits that I'm learning.
+
+That didn't really make sense. What I'm trying to say is that I see the value in ES6, but when I master JS, I'm not sure if I'll be able to tell ES6 apart from base JS.
