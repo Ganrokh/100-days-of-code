@@ -295,7 +295,7 @@ I am really excited to be moving on to JavaScript. I'm a much better coder than 
 
 **Thoughts:** Stan Lee has passed. He was an idol to me. He was an idol to many people. I admit, I didn't get into reading comics until a few years ago, whenever I liked Benedict Cumberbatch's Doctor Strange portrayal so much that I got into the comics. However, growing up, I watched all of the cartoons and movies. From the 90s Spider-Man Cartoon to X-Men Evolution, to the Tobey Maguire Spider-Man movies, to even Ang Lee's Hulk. I loved them, all of them.
 
-He seemed immortal. Until recently, he always looked the same age. He was the Godfather of Comics before I was even born! He was an inspiration to so many!
+He seemed immortal. Until recently, he always looked the same age. He was the Godfather of Comics before I was even born! He was an inspiration to so many! The outpouring of tributes from millions of people around the world has been interesting to see. He truly was the man. He was a god amongst men, and he will be deeply missed. I love you, Stan Lee.
 
 
 ### Day 34: Tuesday, November 13th, 2018
@@ -319,3 +319,10 @@ He seemed immortal. Until recently, he always looked the same age. He was the Go
 **Today's Progress:** Finished the Object-Oriented Programming section of FreeCodeCamp.
 
 **Thoughts:** It was a bit of a slog. I feel like most of the concepts stuck, but a few didn't. I'll likely want to redo this section in the future.
+
+
+### Day 37: Wednesday, November 28th, 2018
+
+**Today's Progress:** Routine JavaScript practice and beginning ES6.
+
+**Thoughts:** Thanksgiving forced me to take a few extra days off than I had planned. I started with JavaScript practice to clean a bit of dust off the gears. I began researching ES6 via FreeCodeCamp. Because I'm new to JavaScript, I don't really understand what bits I've learned are a part of base JS and what bits are a part of ES6, although I do see value in the ES6 bits that I'm learning.
