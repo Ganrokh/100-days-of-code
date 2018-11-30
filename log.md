@@ -328,3 +328,10 @@ He seemed immortal. Until recently, he always looked the same age. He was the Go
 **Thoughts:** Thanksgiving forced me to take a few extra days off than I had planned. I started with JavaScript practice to clean a bit of dust off the gears. I began researching ES6 via FreeCodeCamp. Because I'm new to JavaScript, I don't really understand what bits I've learned are a part of base JS and what bits are a part of ES6, although I do see value in the ES6 bits that I'm learning.
 
 That didn't really make sense. What I'm trying to say is that I see the value in ES6, but when I master JS, I'm not sure if I'll be able to tell ES6 apart from base JS.
+
+
+### Day 38: Thursday, November 29th, 2018
+
+**Today's Progress:** Return to DOM manipulation practice.
+
+**Thoughts:** It's been two weeks, and I really should have finished the DOM Manipulation section on Udemy before Thanksgiving. Oh well. I backtracked a bit to refresh myself. I think this is easy to pick up, it just takes practice to remember the right syntax.
