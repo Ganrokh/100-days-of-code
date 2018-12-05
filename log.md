@@ -335,3 +335,10 @@ That didn't really make sense. What I'm trying to say is that I see the value in
 **Today's Progress:** Return to DOM manipulation practice.
 
 **Thoughts:** It's been two weeks, and I really should have finished the DOM Manipulation section on Udemy before Thanksgiving. Oh well. I backtracked a bit to refresh myself. I think this is easy to pick up, it just takes practice to remember the right syntax.
+
+
+### Day 39: Tuesday, December 4th, 2018
+
+**Today's Progress:** Built the scorekeepre game in Colt Steele'se course.
+
+**Thoughts:** The scorekeeper game was very easy to do. Instead of strictly coding along, I tried to do the whole thing before starting the video. I got pretty far, except for a couple snags (mainly with setting the winning number). Overall, though, I simply supplemented it with my code. DOM Manipulation really is easy to pick up.
