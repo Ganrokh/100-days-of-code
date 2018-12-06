@@ -339,6 +339,13 @@ That didn't really make sense. What I'm trying to say is that I see the value in
 
 ### Day 39: Tuesday, December 4th, 2018
 
-**Today's Progress:** Built the scorekeepre game in Colt Steele'se course.
+**Today's Progress:** Built the scorekeepre game in Colt Steele's course.
 
 **Thoughts:** The scorekeeper game was very easy to do. Instead of strictly coding along, I tried to do the whole thing before starting the video. I got pretty far, except for a couple snags (mainly with setting the winning number). Overall, though, I simply supplemented it with my code. DOM Manipulation really is easy to pick up.
+
+
+### Day 40: Wednesday, December 5th, 2018
+
+**Today's Progress:** More DOM manipulation practice.
+
+**Thoughts:** I have the hang of DOM manipulation, mostly. The idea that you need to use a loop to apply DOM (is that the correct term?) to several elements is a bit weird, though.
