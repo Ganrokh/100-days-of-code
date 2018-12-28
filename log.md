@@ -349,3 +349,10 @@ That didn't really make sense. What I'm trying to say is that I see the value in
 **Today's Progress:** More DOM manipulation practice.
 
 **Thoughts:** I have the hang of DOM manipulation, mostly. The idea that you need to use a loop to apply DOM (is that the correct term?) to several elements is a bit weird, though.
+
+
+### Day 41: Thursday, December 27th, 2018
+
+**Today's Progress:** DOM practice by making an analog clock.
+
+**Thoughts:** My Christmas hiatus was much longer than intended, but I'm happy to get back into the swing of things. I made a clock using CSS and JS. Surprisingly, I wasn't rusty at all. That's a good feeling. I'm picking up JS really well, but I still need a lot more CSS practice.
