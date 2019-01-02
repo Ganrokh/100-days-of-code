@@ -356,3 +356,9 @@ That didn't really make sense. What I'm trying to say is that I see the value in
 **Today's Progress:** DOM practice by making an analog clock.
 
 **Thoughts:** My Christmas hiatus was much longer than intended, but I'm happy to get back into the swing of things. I made a clock using CSS and JS. Surprisingly, I wasn't rusty at all. That's a good feeling. I'm picking up JS really well, but I still need a lot more CSS practice.
+
+### Day 42: Tuesday, January 1st, 2019 - Happy New Year!
+
+**Today's Progress:** DOM practice by making a photo manipulator.
+
+**Thoughts:** More DOM practice. I'm getting the hang of it. It's weird, DOM feels like magic to me, but I'm learning it. I just need to keep my query selectors straight, and I need an index of events that can be listened for.
