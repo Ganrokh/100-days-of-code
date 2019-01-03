@@ -357,8 +357,24 @@ That didn't really make sense. What I'm trying to say is that I see the value in
 
 **Thoughts:** My Christmas hiatus was much longer than intended, but I'm happy to get back into the swing of things. I made a clock using CSS and JS. Surprisingly, I wasn't rusty at all. That's a good feeling. I'm picking up JS really well, but I still need a lot more CSS practice.
 
+
 ### Day 42: Tuesday, January 1st, 2019 - Happy New Year!
 
 **Today's Progress:** DOM practice by making a photo manipulator.
 
 **Thoughts:** More DOM practice. I'm getting the hang of it. It's weird, DOM feels like magic to me, but I'm learning it. I just need to keep my query selectors straight, and I need an index of events that can be listened for.
+
+
+### Day 43: Wednesday, January 2nd, 2019
+
+**Today's Progress:** Learned about ES6.
+
+**Thoughts:** I listen to a podcast called Syntax. It's a web development podcast. I listen to it during my weekly commute to go see Lauren. I don't always understand what they're talking about (in fact, I'm pretty sure that I don't understand most of what they talk about), but even if it's a topic that I'm completely blank on, I pick up terms.
+
+Recently, all I ever hear on the podcast is about how much ES6 has made JavaScript more efficient. However, I'm so new to JavaScript that I'm not able to identify things like ES6, ES5, etc. I was exposed to some ES6 code, and it's made me realized that a lot (most?) of online courses don't cover it, probably because of how new it is.
+
+I decided to change this. I decided to start learning some ES6. It will likely be what I focus on for the next several days. Wes Bos (god, I love that name) has a free course called JavaScript30 that uses a lot of ES6. That's going to be my training grounds. I'm a few lessons into it. So far, I really like it.
+
+**Podcast:** https://syntax.fm/
+
+**Course:** https://javascript30.com/
