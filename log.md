@@ -378,3 +378,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Podcast:** https://syntax.fm/
 
 **Course:** https://javascript30.com/
+
+
+### Day 44: Thursday, January 3rd, 2019
+
+**Today's Progress:** ES6 practice, DOM practice, and slight RegEx work.
+
+**Thoughts:** I'm getting much better at ES6 and DOM. I'm also seeing that I'm learning to read code much better as well. I'm having an easier time of reading code that's not mine and knowing what it does. I'm going to need a lot more practice with RegEx, though. I also need to look into VS Code extensions.
