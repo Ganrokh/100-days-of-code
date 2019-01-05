@@ -385,3 +385,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** ES6 practice, DOM practice, and slight RegEx work.
 
 **Thoughts:** I'm getting much better at ES6 and DOM. I'm also seeing that I'm learning to read code much better as well. I'm having an easier time of reading code that's not mine and knowing what it does. I'm going to need a lot more practice with RegEx, though. I also need to look into VS Code extensions.
+
+
+### Day 45: Friday, January 4th, 2019
+
+**Today's Progress:** More ES6 practice, HTML5 canvas tutorial, started the FCC functional programming section.
+
+**Thoughts:** Today was my first experience with HTML5 canvas. I didn't know that that functionality existed. I had a lot of fun working with it, but I still don't fully grasp how it works. I also started the functional programming section on FreeCodeCamp. I feel like these particular FCC tutorials are a bit too verbose and could be simplified a bit. It's essentially about how functions should be kept in a vacuum and shouldn't really affect the variables outside of it. Functions can also take functions as an argument. All functions in JS are considered first class functions, and functions taking functions as arguments are known as higher-order functions.
