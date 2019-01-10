@@ -399,3 +399,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Worked on the intermediate algorithm scripting challenges on FreeCodeCamp.
 
 **Thoughts:** I now know why people hate RegEx.
+
+
+### Day 47: Wednesday, January 9th, 2019
+
+**Today's Progress:** Halfway through the FreeCodeCamp intermediate algorithm scripting challenges.
+
+**Thoughts:** Ever since I picked up JavaScript, I've never had a day where I felt like I was struggling. However, some of these challenges are really pushing me and making me question my knowledge. Lots of googling. I'm trying my best to not "brute force" these by writing clean code and not making solutions to solve specific inputs.
