@@ -406,3 +406,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Halfway through the FreeCodeCamp intermediate algorithm scripting challenges.
 
 **Thoughts:** Ever since I picked up JavaScript, I've never had a day where I felt like I was struggling. However, some of these challenges are really pushing me and making me question my knowledge. Lots of googling. I'm trying my best to not "brute force" these by writing clean code and not making solutions to solve specific inputs.
+
+
+### Day 48: Thursday, January 10th, 2019
+
+**Today's Progress:** ES6 practice and review.
+
+**Thoughts:** I'm struggling with destructuring. I completely understand its functionality, but it's just hard for me to wrap my head around the syntax. The syntax just looks backwards to me, and it's hard for me to keep that in mind.
