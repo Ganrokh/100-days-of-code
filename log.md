@@ -413,3 +413,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** ES6 practice and review.
 
 **Thoughts:** I'm struggling with destructuring. I completely understand its functionality, but it's just hard for me to wrap my head around the syntax. The syntax just looks backwards to me, and it's hard for me to keep that in mind.
+
+
+### Day 49: Friday, January 11th, 2019
+
+**Today's Progress:** Completed most of the FreeCodeCamp intermediate JS algorithm challenges.
+
+**Thoughts:** I was much more confident at the challenges tonight than I was before. I need more ES6 study. I understand the concepts, but I'm struggling to remember anything beyond arrow functions.
