@@ -420,3 +420,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Completed most of the FreeCodeCamp intermediate JS algorithm challenges.
 
 **Thoughts:** I was much more confident at the challenges tonight than I was before. I need more ES6 study. I understand the concepts, but I'm struggling to remember anything beyond arrow functions.
+
+
+### Day 50: Sunday, January 13th, 2019 - Half way!
+
+**Today's Progress:** Spent way too long completing the "Missing Letters" JavaScript Challenge on FreeCodeCamp.
+
+**Thoughts:** I'm ashamed to admit that it took me way too long to realize that the word "String" was required in the  String.fromCharCode() method. I kept thinking that the examples on MDN, W3Schools, StackOverflow, etc. were just using "String" as a placeholder.
