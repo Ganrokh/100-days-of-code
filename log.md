@@ -427,3 +427,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Spent way too long completing the "Missing Letters" JavaScript Challenge on FreeCodeCamp.
 
 **Thoughts:** I'm ashamed to admit that it took me way too long to realize that the word "String" was required in the  String.fromCharCode() method. I kept thinking that the examples on MDN, W3Schools, StackOverflow, etc. were just using "String" as a placeholder.
+
+
+### Day 51: Monday, January 14th, 2019
+
+**Today's Progress:** Completed more of the FreeCodeCamp intermediate JS challenges.
+
+**Thoughts:** I should be finishing the intermediate challenges and starting the JS projects soon. I need to break the habit of defaulting to vanilla if/else, for loops, etc statements and use more ES6. An ES6 cheatsheet would be nice.
