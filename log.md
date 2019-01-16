@@ -434,3 +434,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Completed more of the FreeCodeCamp intermediate JS challenges.
 
 **Thoughts:** I should be finishing the intermediate challenges and starting the JS projects soon. I need to break the habit of defaulting to vanilla if/else, for loops, etc statements and use more ES6. An ES6 cheatsheet would be nice.
+
+
+### Day 52: Tuesday, January 15th, 2019
+
+**Today's Progress:** Completed more of the FreeCodeCamp intermediate JS challenges.
+
+**Thoughts:** I'm starting to naturally use methods like forEach() and map() instead of falling back on for/while loops. I have a tendency to instantly go to forEach() anytime I need to do something with an array now, which is nice.
