@@ -448,3 +448,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Completed more of the FreeCodeCamp intermediate JS challenges.
 
 **Thoughts:** I accidentally divided by zero in my code today. My code looked correct, but the challenge wasn't completing at all. I didn't notice the zero. I ran the code in the JS console. It crashed my browser. Huh, I guess that dividing by zero does wreck things.
+
+
+### Day 54: Tuesday, January 22nd, 2019
+
+**Today's Progress:** Completed the rest of the FreeCodeCamp intermediate JS challenges. Completed 4/5 of the JS algorithms and data structures projects.
+
+**Thoughts:** The first four of the projects felt like easy puzzles, but the fifth looks a bit intimidating. I'm attempting to use more RegEx in my code, but I may have cheated a few times by using a tool to write my RegEx.
