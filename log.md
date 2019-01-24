@@ -455,3 +455,12 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Completed the rest of the FreeCodeCamp intermediate JS challenges. Completed 4/5 of the JS algorithms and data structures projects.
 
 **Thoughts:** The first four of the projects felt like easy puzzles, but the fifth looks a bit intimidating. I'm attempting to use more RegEx in my code, but I may have cheated a few times by using a tool to write my RegEx.
+
+
+### Day 55: Wednesday, January 23rd, 2019
+
+**Today's Progress:** Completed the cash register project and earned the FreeCodeCamp JavaScript Algorithms and Data Structures certificate.
+
+**Thoughts:** I'm so happy that I completed the projects. The cash regster one took about 3 hours to do. I was getting frustrated near the end and was about to postpone finishing it until tomorrow, but I finally noticed that I forgot two little lines of codes that actually assign "OPEN" and the correct change to the output. My big takeaway from this is that I need to study map() and reduce() more. I successfully coded with them, yes, but that was after constantly referring to examples and sometimes "brute-forcing" them to work. I don't feel like I completely understand them yet.
+
+**Link to Certificate:** https://www.freecodecamp.org/certification/ganrokh/javascript-algorithms-and-data-structures
