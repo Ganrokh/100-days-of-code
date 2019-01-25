@@ -464,3 +464,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Thoughts:** I'm so happy that I completed the projects. The cash regster one took about 3 hours to do. I was getting frustrated near the end and was about to postpone finishing it until tomorrow, but I finally noticed that I forgot two little lines of codes that actually assign "OPEN" and the correct change to the output. My big takeaway from this is that I need to study map() and reduce() more. I successfully coded with them, yes, but that was after constantly referring to examples and sometimes "brute-forcing" them to work. I don't feel like I completely understand them yet.
 
 **Link to Certificate:** https://www.freecodecamp.org/certification/ganrokh/javascript-algorithms-and-data-structures
+
+
+### Day 56: Thursday, January 24rd, 2019
+
+**Today's Progress:** Completed the Bootstrap section of FreeCodeCamp.
+
+**Thoughts:** I already learned Bootstrap a month ago, but I barely touched it while learning JS, so this was more of a refresher course than anything. I like Bootstrap, I just don't want to develop the habit of relying on it too much.
