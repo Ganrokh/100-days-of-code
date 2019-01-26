@@ -466,8 +466,15 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Link to Certificate:** https://www.freecodecamp.org/certification/ganrokh/javascript-algorithms-and-data-structures
 
 
-### Day 56: Thursday, January 24rd, 2019
+### Day 56: Thursday, January 24th, 2019
 
 **Today's Progress:** Completed the Bootstrap section of FreeCodeCamp.
 
 **Thoughts:** I already learned Bootstrap a month ago, but I barely touched it while learning JS, so this was more of a refresher course than anything. I like Bootstrap, I just don't want to develop the habit of relying on it too much.
+
+
+### Day 57: Friday, January 25th, 2019
+
+**Today's Progress:** Started the JQuery section of FreeCodeCamp.
+
+**Thoughts:** I like how incredibly simple JQuery is to use. However, all I've read over the last couple of months is how ES6 has allowed vanilla JS to surpass JQuery's capabilities. I'll finish the section, but I'll probably only use JQuery enough to understand how it works. I likely won't focus on it much. Long live vanilla JavaScript.
