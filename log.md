@@ -478,3 +478,10 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Started the JQuery section of FreeCodeCamp.
 
 **Thoughts:** I like how incredibly simple JQuery is to use. However, all I've read over the last couple of months is how ES6 has allowed vanilla JS to surpass JQuery's capabilities. I'll finish the section, but I'll probably only use JQuery enough to understand how it works. I likely won't focus on it much. Long live vanilla JavaScript.
+
+
+### Day 58: Friday, February 1st, 2019
+
+**Today's Progress:** Finished the Sass section of FreeCodeCamp.
+
+**Thoughts:** For some reason, Sass wasn't completely sticking with me. It took awhile for the concept of mixins to, uh, mixin to my mind. I think I finally got it. I definitely need to study Sass more, though. I don't think I fully grasp all of the benefits of it over vanilla CSS.
