@@ -485,3 +485,12 @@ I decided to change this. I decided to start learning some ES6. It will likely b
 **Today's Progress:** Finished the Sass section of FreeCodeCamp.
 
 **Thoughts:** For some reason, Sass wasn't completely sticking with me. It took awhile for the concept of mixins to, uh, mixin to my mind. I think I finally got it. I definitely need to study Sass more, though. I don't think I fully grasp all of the benefits of it over vanilla CSS.
+
+
+### Day 59: Tuesday, February 5th, 2019
+
+**Today's Progress:** Started the Reactsection of FreeCodeCamp.
+
+**Thoughts:** I'm very excited to start working with React. It's technology that I've heard a ton about. I listen to Wes Bos' and Scott Tolinksi's podcast, Syntax, and they talk a lot about it. I see a lot about it on Reddit and Twitter. I'm excited to finally take a look at it.
+
+I really like it and the benefits that it has over vanilla JS (and vanilla HTML for that matter). I'm struggling a bit with picking up some of the syntax, but I think that's more on FreeCodeCamp trying to be brief and simplifying too much. I may look at finding a more in-depth React course once I finish up the full FreeCodeCamp curriculum. All of that said, I'm very happy to finally be at least a little bit familiar with React, and it will definitely be something that I focus on after I finish FreeCodeCamp.
