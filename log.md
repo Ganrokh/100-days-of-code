@@ -501,3 +501,12 @@ I really like it and the benefits that it has over vanilla JS (and vanilla HTML 
 **Today's Progress:** Continued the React section of FreeCodeCamp.
 
 **Thoughts:** I'm struggling with learning React. It sucks because I want to focus on it. I know its benefits and why it's such a prominent framework today. I've started searching for a full React course. I don't think the FCC React section by itself will be sufficient.
+
+
+### Day 61: Thursday, February 14th, 2019
+
+**Today's Progress:** Started Stephen Grider's Modern React with Redux course.
+
+**Thoughts:** I have been struggling to learn React, so I thought that it would be best if I had a bit more guidance with a course on it. I really want to master React, so taking a course seemed to be the optimal choice, at least until I master the basics. I chose Stephen Grider's course because I had completed part of his Solidity course in the past, and I enjoyed his teaching style.
+
+I completed the first section of the course today, which involved installing Node and create-react-app. I wasn't expecting to have to install anything, actually, so this is a bit refreshing. Reminds me of when I attempted to learn Python. That said, I can safely say that I am already understanding React a lot more than when I was depending on the FCC course alone. This is fun. Thank you, Stephen.
