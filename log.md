@@ -510,3 +510,10 @@ I really like it and the benefits that it has over vanilla JS (and vanilla HTML 
 **Thoughts:** I have been struggling to learn React, so I thought that it would be best if I had a bit more guidance with a course on it. I really want to master React, so taking a course seemed to be the optimal choice, at least until I master the basics. I chose Stephen Grider's course because I had completed part of his Solidity course in the past, and I enjoyed his teaching style.
 
 I completed the first section of the course today, which involved installing Node and create-react-app. I wasn't expecting to have to install anything, actually, so this is a bit refreshing. Reminds me of when I attempted to learn Python. That said, I can safely say that I am already understanding React a lot more than when I was depending on the FCC course alone. This is fun. Thank you, Stephen.
+
+
+### Day 62: Thursday, February 21th, 2019
+
+**Today's Progress:** Continued learning the basics of React with Stephen Grider's course.
+
+**Thoughts:** I really like React. I'm a fan of the simplification of things, and I feel like the combination of JS and HTML together is a new level of that. I'm learning React much easier now than I was following the FCC section. I'm enjoying it immensely. I also took some time today to make a cheat sheet for NPM commands and random quirks of React.
