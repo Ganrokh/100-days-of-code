@@ -512,8 +512,15 @@ I really like it and the benefits that it has over vanilla JS (and vanilla HTML 
 I completed the first section of the course today, which involved installing Node and create-react-app. I wasn't expecting to have to install anything, actually, so this is a bit refreshing. Reminds me of when I attempted to learn Python. That said, I can safely say that I am already understanding React a lot more than when I was depending on the FCC course alone. This is fun. Thank you, Stephen.
 
 
-### Day 62: Thursday, February 21th, 2019
+### Day 62: Thursday, February 21st, 2019
 
 **Today's Progress:** Continued learning the basics of React with Stephen Grider's course.
 
 **Thoughts:** I really like React. I'm a fan of the simplification of things, and I feel like the combination of JS and HTML together is a new level of that. I'm learning React much easier now than I was following the FCC section. I'm enjoying it immensely. I also took some time today to make a cheat sheet for NPM commands and random quirks of React.
+
+
+### Day 63: Friday, February 22nd, 2019
+
+**Today's Progress:** Continued learning the basics of React with Stephen Grider's course. This time, studied props and nested components.
+
+**Thoughts:** Today, I studied props, nested components, and passing data to children. React is starting to make a lot more sense now. Connecting multiple components and getting them to interact is... kind of fun.
