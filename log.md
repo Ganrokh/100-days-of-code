@@ -524,3 +524,10 @@ I completed the first section of the course today, which involved installing Nod
 **Today's Progress:** Continued learning the basics of React with Stephen Grider's course. This time, studied props and nested components.
 
 **Thoughts:** Today, I studied props, nested components, and passing data to children. React is starting to make a lot more sense now. Connecting multiple components and getting them to interact is... kind of fun.
+
+
+### Day 64: Saturday, February 23rd, 2019
+
+**Today's Progress:** Continued learning the basics of React with Stephen Grider's course. Started learning about class components. Had a little bit of fun with geolocation.
+
+**Thoughts:** I'm still a bit shaky on some of the syntax for React, so that might be a study focus for me over the weekend. I do really like using {props} as a way of using data cross-component. That goes back to the simplicity I talked about yesterday. Interesting note: my laptop's geolocation is about 15 miles off. That's a bit odd, but that explains why some ads that I see are targeted at the next town over and not my own town.
