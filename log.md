@@ -531,3 +531,10 @@ I completed the first section of the course today, which involved installing Nod
 **Today's Progress:** Continued learning the basics of React with Stephen Grider's course. Started learning about class components. Had a little bit of fun with geolocation.
 
 **Thoughts:** I'm still a bit shaky on some of the syntax for React, so that might be a study focus for me over the weekend. I do really like using {props} as a way of using data cross-component. That goes back to the simplicity I talked about yesterday. Interesting note: my laptop's geolocation is about 15 miles off. That's a bit odd, but that explains why some ads that I see are targeted at the next town over and not my own town.
+
+
+### Day 65: Thursday, March 7th, 2019
+
+**Today's Progress:** Reviewed React basics, learned about state.
+
+**Thoughts:** I was deathly ill last week, which caused me to fall behind with work, which made me put studying on hold. That hurt, and I can tell that I regressed a bit with React, but that's fine. Today was mainly a review for React, and I took time to play around with state. I finally understand why components re-render so often - they do it every time a property of state changes that affects that component. Neat!
