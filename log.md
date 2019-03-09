@@ -547,3 +547,12 @@ I completed the first section of the course today, which involved installing Nod
 **Thoughts:** I'm struggling a bit with the syntax with React, which is an issue. I'm getting the hang of it, though. I'm still learning the differences between class-based components and functional components, but I'm getting good using multiple components in a single app.
 
 Also, I had a component that wasn't working correctly. The error message wasn't making sense, so I commented out each function to figure out what the issue was. After going through each function, I still couldn't figure out the error. Once I removed the comments, the component started working normally. What was this magical error? Was there ever an error? The world may never know.
+
+
+### Day 67: Friday, March 9th, 2019
+
+**Today's Progress:** Studied fetching and passing user data between multiple React components.
+
+**Thoughts:** I want to admit that I really love the modular style of React. I really like anything that can be easily customizable and reused. I just love the component style of React, and I recognize how powerful of a tool it is.
+
+That said, I'm struggling with remembering the proper boilerplate differences between functional components and class components. I find myself having to refer to past projects a lot. I definitely need to review that more. React code isn't exactly flowing freely from my fingers yet, much like how JS does.
