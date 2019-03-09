@@ -538,3 +538,12 @@ I completed the first section of the course today, which involved installing Nod
 **Today's Progress:** Reviewed React basics, learned about state.
 
 **Thoughts:** I was deathly ill last week, which caused me to fall behind with work, which made me put studying on hold. That hurt, and I can tell that I regressed a bit with React, but that's fine. Today was mainly a review for React, and I took time to play around with state. I finally understand why components re-render so often - they do it every time a property of state changes that affects that component. Neat!
+
+
+### Day 66: Friday, March 8th, 2019
+
+**Today's Progress:** More React study with using multiple components and learning the difference between functional components and class-based components.
+
+**Thoughts:** I'm struggling a bit with the syntax with React, which is an issue. I'm getting the hang of it, though. I'm still learning the differences between class-based components and functional components, but I'm getting good using multiple components in a single app.
+
+Also, I had a component that wasn't working correctly. The error message wasn't making sense, so I commented out each function to figure out what the issue was. After going through each function, I still couldn't figure out the error. Once I removed the comments, the component started working normally. What was this magical error? Was there ever an error? The world may never know.
