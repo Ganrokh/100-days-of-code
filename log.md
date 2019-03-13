@@ -556,3 +556,12 @@ Also, I had a component that wasn't working correctly. The error message wasn't 
 **Thoughts:** I want to admit that I really love the modular style of React. I really like anything that can be easily customizable and reused. I just love the component style of React, and I recognize how powerful of a tool it is.
 
 That said, I'm struggling with remembering the proper boilerplate differences between functional components and class components. I find myself having to refer to past projects a lot. I definitely need to review that more. React code isn't exactly flowing freely from my fingers yet, much like how JS does.
+
+
+### Day 68: Tuesday, March 13th, 2019
+
+**Today's Progress:** Studied API requests and async/await.
+
+**Thoughts:** API requests are odd. Stephen Grider's course used its first one so far. It took quite a bit of coding to get it to work. I'm unsure if the process/boilerplate of adding an API request is the same for all APIs, or if it's different for each API. Either way, A few of the terms and required information didn't quite stick. Luckily, Stephen said that we'll be working with plenty of APIs during the course.
+
+I also had my first experience with async/await today. I had heard Wes and Scott on Syntax talk all about it. I had worked with promises and .then() on FreeCodeCamp before, but not async/await. I really appreciate async/await's sheer simplicity. I can't wait to work more with it and to see why developers love the feature.
