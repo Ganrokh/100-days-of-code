@@ -572,3 +572,10 @@ I also had my first experience with async/await today. I had heard Wes and Scott
 **Today's Progress:** More practice with API requests in React.
 
 **Thoughts:** Today was about getting the image search app to actually display images. It wasn't hard to do. I've realized that functional components are much simpler than I've been making them out to be. They require much less boiler place, much less code than class components. That makes me happier and relieves a bit of stress. I've been somewhat stressing out about remembering all of the necessary boilerplate for React components.
+
+
+### Day 70: Thursday, March 14th, 2019 - Happy Pi Day!
+
+**Today's Progress:** Learned about Refs in React and about why regular DOM manipulation doesn't work in React.
+
+**Thoughts:** I can see this being something that I'll struggle with, which sucks because this is very important. Refs seem much more complicated than what DOM manipulation is in vanilla JS. That doesn't excite me. I easily struggled with it tonight. I'll definitely will be spending more time with this.
