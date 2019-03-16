@@ -579,3 +579,10 @@ I also had my first experience with async/await today. I had heard Wes and Scott
 **Today's Progress:** Learned about Refs in React and about why regular DOM manipulation doesn't work in React.
 
 **Thoughts:** I can see this being something that I'll struggle with, which sucks because this is very important. Refs seem much more complicated than what DOM manipulation is in vanilla JS. That doesn't excite me. I easily struggled with it tonight. I'll definitely will be spending more time with this.
+
+
+### Day 71: Friday, March 15th, 2019
+
+**Today's Progress:** More practice with refs and API requests in React.
+
+**Thoughts:** I'm getting the hang of React in general. I'm starting to memorize the boilerplate more, which is good. I normally use Brave Browser in all situations. However, it's starting to have some issues with API requests that I'm using for development, and I haven't been able to fix those issues. Back to Chrome for development, I guess.
