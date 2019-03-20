@@ -586,3 +586,10 @@ I also had my first experience with async/await today. I had heard Wes and Scott
 **Today's Progress:** More practice with refs and API requests in React.
 
 **Thoughts:** I'm getting the hang of React in general. I'm starting to memorize the boilerplate more, which is good. I normally use Brave Browser in all situations. However, it's starting to have some issues with API requests that I'm using for development, and I haven't been able to fix those issues. Back to Chrome for development, I guess.
+
+
+### Day 72: Tuesday, March 19th, 2019
+
+**Today's Progress:** Began learning Redux.
+
+**Thoughts:** I *think* I understand the use case for Redux, at least in terms of React. It can be used to more easily manage a state that is going to have tons of data. That said, some of the syntax is lost on me right now, and I sort of feel like there's more than meets the eye. I can't wait to actually work with Redux a bit.
