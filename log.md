@@ -593,3 +593,10 @@ I also had my first experience with async/await today. I had heard Wes and Scott
 **Today's Progress:** Began learning Redux.
 
 **Thoughts:** I *think* I understand the use case for Redux, at least in terms of React. It can be used to more easily manage a state that is going to have tons of data. That said, some of the syntax is lost on me right now, and I sort of feel like there's more than meets the eye. I can't wait to actually work with Redux a bit.
+
+
+### Day 73: Saturday, March 23th, 2019
+
+**Today's Progress:** Struggling with Redux
+
+**Thoughts:** I'm really struggling with Redux. I understand why it's useful in React, but the syntax and how the code actually works really isn't sticking for me. I might see if I can find another resource for Redux specifically, because I already know React pretty well. I like how Stephen Grider teaches React, but for some reason, the Redux section of his course isn't working for me right now, and I'm not sure why.
