@@ -600,3 +600,14 @@ I also had my first experience with async/await today. I had heard Wes and Scott
 **Today's Progress:** Struggling with Redux
 
 **Thoughts:** I'm really struggling with Redux. I understand why it's useful in React, but the syntax and how the code actually works really isn't sticking for me. I might see if I can find another resource for Redux specifically, because I already know React pretty well. I like how Stephen Grider teaches React, but for some reason, the Redux section of his course isn't working for me right now, and I'm not sure why.
+
+
+### Day 74: Wednesday, March 27th, 2019
+
+**Today's Progress:** Getting better with Redux.
+
+**Thoughts:** I'm finally starting to get better with Redux. I'd like to thank Mark Erikson for reaching out on Twitter and giving me a hand with his Redux recources. I gave his Practical Redux series a read, and that's helped me understand Redux more bw showing how it's useful in a bigger project. I've been mainly thinking about Redux in terms of smaller projects.
+
+That said, I am starting to get burnt out with React. I might switch gears to a new topic for a bit to keep myself feeling fresh.
+
+Link to Practical Redux and Mark Erikson's blog: https://blog.isquaredsoftware.com/
