@@ -611,3 +611,12 @@ I also had my first experience with async/await today. I had heard Wes and Scott
 That said, I am starting to get burnt out with React. I might switch gears to a new topic for a bit to keep myself feeling fresh.
 
 Link to Practical Redux and Mark Erikson's blog: https://blog.isquaredsoftware.com/
+
+
+### Day 75: Thursday, March 28th, 2019
+
+**Today's Progress:** Started learning Vue.js.
+
+**Thoughts:** This might be surprising. I've decided to switch to learning Vue instead of React. I've been learning React for about 2 weeks now. I like it, but I don't feel confident at all. If I set myself loose on a personal project, I find myself referencing every possible React resource constantly. I'm just not confident with it at all. Maybe I'm just struggling with component-based frameworks in general?
+
+I made the decision to switch to Vue because I've seen a ton of feedback online that says that Vue is the easiest framework to learn, and learning it allows a much smoother transition to other frameworks. I hope that that's correct. I'm excited!
