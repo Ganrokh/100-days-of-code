@@ -620,3 +620,10 @@ Link to Practical Redux and Mark Erikson's blog: https://blog.isquaredsoftware.c
 **Thoughts:** This might be surprising. I've decided to switch to learning Vue instead of React. I've been learning React for about 2 weeks now. I like it, but I don't feel confident at all. If I set myself loose on a personal project, I find myself referencing every possible React resource constantly. I'm just not confident with it at all. Maybe I'm just struggling with component-based frameworks in general?
 
 I made the decision to switch to Vue because I've seen a ton of feedback online that says that Vue is the easiest framework to learn, and learning it allows a much smoother transition to other frameworks. I hope that that's correct. I'm excited!
+
+
+### Day 76: Friday, March 29th, 2019
+
+**Today's Progress:** Continued learning the basics of Vue.
+
+**Thoughts:** I don't know enough about Vue yet to really talk about how it differs from React, but the first thing that I want to say is that I really like how quick it is to get a new project up and running with Vue compared to React, even when using create-react-app. It's just so *easy* and *lightweight*. It feels like I'm up and running in seconds. I really like that.
