@@ -627,3 +627,12 @@ I made the decision to switch to Vue because I've seen a ton of feedback online 
 **Today's Progress:** Continued learning the basics of Vue.
 
 **Thoughts:** I don't know enough about Vue yet to really talk about how it differs from React, but the first thing that I want to say is that I really like how quick it is to get a new project up and running with Vue compared to React, even when using create-react-app. It's just so *easy* and *lightweight*. It feels like I'm up and running in seconds. I really like that.
+
+
+### Day 77: Saturday, March 30th, 2019
+
+**Today's Progress:** Continued learning the basics of Vue, learned about computed and watch properties.
+
+**Thoughts:** I need more practice with event variables. I also haven't fully wrapped my head around computed and watch properties yet. I think I fully understand watchers, but I'm not quite sure about computed and how it differs from methods.
+
+I won't have much time to code over the next few days. However, I will be reading the Vue documentation whenever I have time.
