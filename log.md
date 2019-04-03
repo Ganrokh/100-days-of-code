@@ -636,3 +636,10 @@ I made the decision to switch to Vue because I've seen a ton of feedback online 
 **Thoughts:** I need more practice with event variables. I also haven't fully wrapped my head around computed and watch properties yet. I think I fully understand watchers, but I'm not quite sure about computed and how it differs from methods.
 
 I won't have much time to code over the next few days. However, I will be reading the Vue documentation whenever I have time.
+
+
+### Day 78: Tuesday, April 2nd, 2019
+
+**Today's Progress:** Continued learning the basics of Vue, understood computed properties better, learned how to use CSS with Vue.
+
+**Thoughts:** I'm struggling with CSS quite a bit. Max's course had a thorough unit covering using CSS with Vue. I watched it, and I coded along. However, when I started to do the exercises at the end, nothing I was doing was working, even though I was sure I typed everything correctly. I don't know what's wrong. Was I misinterpreting what Max was doing? Maybe I just need to come back tomorrow with fresh eyes.
