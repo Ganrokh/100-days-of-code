@@ -643,3 +643,10 @@ I won't have much time to code over the next few days. However, I will be readin
 **Today's Progress:** Continued learning the basics of Vue, understood computed properties better, learned how to use CSS with Vue.
 
 **Thoughts:** I'm struggling with CSS quite a bit. Max's course had a thorough unit covering using CSS with Vue. I watched it, and I coded along. However, when I started to do the exercises at the end, nothing I was doing was working, even though I was sure I typed everything correctly. I don't know what's wrong. Was I misinterpreting what Max was doing? Maybe I just need to come back tomorrow with fresh eyes.
+
+
+### Day 79: Thurssday, April 4th, 2019
+
+**Today's Progress:** More practice with CSS and Vue.
+
+**Thoughts:** I spent several hours today with studying CSS with Vue. I had a Eureka moment understanding ViewModel, which made several things about Vue click. That made me understand Vue much better and made today feel super productive. I'm happy.
