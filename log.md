@@ -645,8 +645,15 @@ I won't have much time to code over the next few days. However, I will be readin
 **Thoughts:** I'm struggling with CSS quite a bit. Max's course had a thorough unit covering using CSS with Vue. I watched it, and I coded along. However, when I started to do the exercises at the end, nothing I was doing was working, even though I was sure I typed everything correctly. I don't know what's wrong. Was I misinterpreting what Max was doing? Maybe I just need to come back tomorrow with fresh eyes.
 
 
-### Day 79: Thurssday, April 4th, 2019
+### Day 79: Thursday, April 4th, 2019
 
 **Today's Progress:** More practice with CSS and Vue.
 
 **Thoughts:** I spent several hours today with studying CSS with Vue. I had a Eureka moment understanding ViewModel, which made several things about Vue click. That made me understand Vue much better and made today feel super productive. I'm happy.
+
+
+### Day 80: Thurssday, April 4th, 2019
+
+**Today's Progress:** Made a simple RPG game with Vue.
+
+**Thoughts:** taking on a challenge from Max, I made a simple RPG game with Vue. It's very basic, but it greatly helped my understand of how Vue works, and I'm glad that I made it. It really shows how simple it is to use Vue, and how vanilla JS skills can easily transfer to using Vue. I might tinker with this game a bit in the future, add more features, make it more indepth, etc. Overall, I'm *very* happy with today's progress, and today was a great boost to my self-esteem.
