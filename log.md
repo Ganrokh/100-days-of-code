@@ -652,8 +652,17 @@ I won't have much time to code over the next few days. However, I will be readin
 **Thoughts:** I spent several hours today with studying CSS with Vue. I had a Eureka moment understanding ViewModel, which made several things about Vue click. That made me understand Vue much better and made today feel super productive. I'm happy.
 
 
-### Day 80: Thurssday, April 4th, 2019
+### Day 80: Friday, April 5th, 2019
 
 **Today's Progress:** Made a simple RPG game with Vue.
 
-**Thoughts:** taking on a challenge from Max, I made a simple RPG game with Vue. It's very basic, but it greatly helped my understand of how Vue works, and I'm glad that I made it. It really shows how simple it is to use Vue, and how vanilla JS skills can easily transfer to using Vue. I might tinker with this game a bit in the future, add more features, make it more indepth, etc. Overall, I'm *very* happy with today's progress, and today was a great boost to my self-esteem.
+**Thoughts:** Taking on a challenge from Max, I made a simple RPG game with Vue. It's very basic, but it greatly helped my understand of how Vue works, and I'm glad that I made it. It really shows how simple it is to use Vue, and how vanilla JS skills can easily transfer to using Vue. I might tinker with this game a bit in the future, add more features, make it more indepth, etc. Overall, I'm *very* happy with today's progress, and today was a great boost to my self-esteem.
+
+
+### Day 81: Saturday, April 6th, 2019
+
+**Today's Progress:** Learned about the Vue component lifecycle.
+
+**Thoughts:** I'm having a much easier time understanding the component lifecycle with Vue than I did with React. I think Vue's overall leaner syntax is helping a lot in that. I don't completely understand the use cases for all of the stages (mainly destroyed()), but I'm having an easier time understanding them in general.
+
+Side note: I need to decide on a backend language to eventually learn. I want to branch out a bit and not pick Node just so I get experience in more languages. Currently looking at Go, mainly because while it doesn't have a big chunk of the job market right now, it seems to be the backend language of the future.
