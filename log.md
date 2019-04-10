@@ -666,3 +666,12 @@ I won't have much time to code over the next few days. However, I will be readin
 **Thoughts:** I'm having a much easier time understanding the component lifecycle with Vue than I did with React. I think Vue's overall leaner syntax is helping a lot in that. I don't completely understand the use cases for all of the stages (mainly destroyed()), but I'm having an easier time understanding them in general.
 
 Side note: I need to decide on a backend language to eventually learn. I want to branch out a bit and not pick Node just so I get experience in more languages. Currently looking at Go, mainly because while it doesn't have a big chunk of the job market right now, it seems to be the backend language of the future.
+
+
+### Day 82: Tuesday, April 9th, 2019
+
+**Today's Progress:** Introduced to Vue CLI.
+
+**Thoughts:** I don't fully understand why all of this setup is necessary for NPM and Vue, considering that we've made a few Vue projects without any use of Node. Is it just to setup a localhost server to emulate running the website on a remote server? That makes sense to me.
+
+I occasionally get errors in Powershell. They never cause any big issues, but it'd probably be worthwhile to eventually set aside time to learn how to make full use of command line like Powershell.
