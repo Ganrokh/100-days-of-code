@@ -675,3 +675,12 @@ Side note: I need to decide on a backend language to eventually learn. I want to
 **Thoughts:** I don't fully understand why all of this setup is necessary for NPM and Vue, considering that we've made a few Vue projects without any use of Node. Is it just to setup a localhost server to emulate running the website on a remote server? That makes sense to me.
 
 I occasionally get errors in Powershell. They never cause any big issues, but it'd probably be worthwhile to eventually set aside time to learn how to make full use of command line like Powershell.
+
+
+### Day 83: Wednesday, April 17th, 2019
+
+**Today's Progress:** Learned about Vue components.
+
+**Thoughts:** I had to take a break from learning because I got busy with work while also catching strep throat. I still had free time to study, but my throat made it almost impossible to focus on anything. Good thing work is somewhat monotonous. I'm still recovering from a sore throat, but I can focus now, so it's time to continue learning.
+
+I was familiar with components after trying to learn React. I picked up components in Vue much faster. I think it's thanks to Vue's leaner syntax. There isn't a lot of boilerplate needed for components, and the boilerplate that is there is easier to remember, making it so that I could make components much quicker. I'd venture to say that I had fun making components. I look forward to making more complex components and understanding how they work.
