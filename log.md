@@ -691,3 +691,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** Practiced passing data between Vue components.
 
 **Thoughts:** This is something that I need more practice with. There are a lot of ways of doing this, and I think Max might have gone through them a bit too fast. I'm not completely solid on all of the ways to do it and how they differ. I should spend another day on this, possibly using another resource. The Vue documentation has been a lot of help as well.
+
+
+### Day 85: Friday, April 19th, 2019
+
+**Today's Progress:** More practice with passing data between Vue components.
+
+**Thoughts:** I spent more time reviewing passing data between components. I'm better at it, and I understand the different ways of doing it more. I like using an Event Bus to pass data between components. However, one thing that I'm not clear on is why you wouldn't want to use an Event Bus. Also, I like using slots. It's an incredibly simple, yet useful, functionality.
