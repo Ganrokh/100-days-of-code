@@ -698,3 +698,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** More practice with passing data between Vue components.
 
 **Thoughts:** I spent more time reviewing passing data between components. I'm better at it, and I understand the different ways of doing it more. I like using an Event Bus to pass data between components. However, one thing that I'm not clear on is why you wouldn't want to use an Event Bus. Also, I like using slots. It's an incredibly simple, yet useful, functionality.
+
+
+### Day 86: Saturday, April 20th, 2019 - Happy Birthday, Snoop Dogg!
+
+**Today's Progress:** Introduction to dynamic components.
+
+**Thoughts:** Max calls slots and dynamic components "advance component concepts". However, I took to them very quickly, much quicker than I did the previous component concepts. I even memorized the syntax very quickly. I think the overall leaner syntax and boilerplate of Vue is helping immensely. I still need to work on passing data between components, but based on what I'm reading online, that might come naturally when I start learning about VueX.
