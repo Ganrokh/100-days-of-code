@@ -713,3 +713,9 @@ I was familiar with components after trying to learn React. I picked up componen
 
 **Thoughts:** I spent most of the day fixing errors that VSCode was having with a Vue plugin. I say "fixing". In reality, I just learned a workaround for the error I was having. Oh well, lol. After that, I was introduced to forms in Vue, but I didn' have muh time to work with it. I did start to realize the power of two-way data binding, though. I can see how it can accomplish a lot with very little syntax.
 
+
+### Day 88: Wednesday, April 24th, 2019
+
+**Today's Progress:** More practice with forms in Vue.
+
+**Thoughts:** Forms are very easy to make. They feel easier to make in a framework than they do without one, probably because I think vanilla DOM manipulation has messy syntax. I still need to work more with events and $emit.
