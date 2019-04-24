@@ -705,3 +705,11 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** Introduction to dynamic components.
 
 **Thoughts:** Max calls slots and dynamic components "advance component concepts". However, I took to them very quickly, much quicker than I did the previous component concepts. I even memorized the syntax very quickly. I think the overall leaner syntax and boilerplate of Vue is helping immensely. I still need to work on passing data between components, but based on what I'm reading online, that might come naturally when I start learning about VueX.
+
+
+### Day 87: Tuesday, April 23rd, 2019
+
+**Today's Progress:** Introduction to forms in Vue.
+
+**Thoughts:** I spent most of the day fixing errors that VSCode was having with a Vue plugin. I say "fixing". In reality, I just learned a workaround for the error I was having. Oh well, lol. After that, I was introduced to forms in Vue, but I didn' have muh time to work with it. I did start to realize the power of two-way data binding, though. I can see how it can accomplish a lot with very little syntax.
+
