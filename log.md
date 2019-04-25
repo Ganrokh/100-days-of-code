@@ -726,3 +726,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** First look at Golang with the Tour of Go.
 
 **Thoughts:** I randomly had free time tonight, so I'm back for more programming! I didn't have the focus or the environment to work on a web dev project during this short time, so since I decided on Golang being my first backend language, I started the Tour of Go, which is a popular (and official) starter resource. To say the least, Go is very different from the languages that I have experience with (JavaScript, a little of Python, a little of Kotlin). I'm definitely going to need a course for this.
+
+
+### Day 89: Thursday, April 25th, 2019
+
+**Today's Progress:** Introduced to Vue custom directives.
+
+**Thoughts:** Directives are neat. I like custom directives, and I appreciate how much it relies on vanilla JS, which is a bit refreshing. That said, some of the syntax is a bit complex to me. Everything that I've read says that Vue directives are much simpler than the equivalents in React and Angular, so maybe I'm just over-thinking them.
