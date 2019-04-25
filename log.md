@@ -719,3 +719,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** More practice with forms in Vue.
 
 **Thoughts:** Forms are very easy to make. They feel easier to make in a framework than they do without one, probably because I think vanilla DOM manipulation has messy syntax. I still need to work more with events and $emit.
+
+
+### Day 88.5: Wednesday, April 24th, 2019
+
+**Today's Progress:** First look at Golang with the Tour of Go.
+
+**Thoughts:** I randomly had free time tonight, so I'm back for more programming! I didn't have the focus or the environment to work on a web dev project during this short time, so since I decided on Golang being my first backend language, I started the Tour of Go, which is a popular (and official) starter resource. To say the least, Go is very different from the languages that I have experience with (JavaScript, a little of Python, a little of Kotlin). I'm definitely going to need a course for this.
