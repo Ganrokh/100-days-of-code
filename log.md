@@ -733,3 +733,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** Introduced to Vue custom directives.
 
 **Thoughts:** Directives are neat. I like custom directives, and I appreciate how much it relies on vanilla JS, which is a bit refreshing. That said, some of the syntax is a bit complex to me. Everything that I've read says that Vue directives are much simpler than the equivalents in React and Angular, so maybe I'm just over-thinking them.
+
+
+### Day 90: Wednesday, May 1st, 2019
+
+**Today's Progress:** Introduced to Vue filters and mixins.
+
+**Thoughts:** Filters and mixins are easy to understand and implement. However, I'm having trouble thinking of a use case for a global mixin, even though I understand how they work. Side note: I had to take a few extra days off from coding due to losing internet for the weekend and having to deal with bad weather. I looked at my entry for Day 89, and couldn't remember much about Vue custom directives. Will definitely need to review.
