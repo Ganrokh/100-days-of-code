@@ -740,3 +740,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** Introduced to Vue filters and mixins.
 
 **Thoughts:** Filters and mixins are easy to understand and implement. However, I'm having trouble thinking of a use case for a global mixin, even though I understand how they work. Side note: I had to take a few extra days off from coding due to losing internet for the weekend and having to deal with bad weather. I looked at my entry for Day 89, and couldn't remember much about Vue custom directives. Will definitely need to review.
+
+
+### Day 91: Monday, May 6th, 2019
+
+**Today's Progress:** Introduced to Vue animations.
+
+**Thoughts:** I appreciate how simple the transition tag makes it with attaching and detaching CSS tags. However, one thing that is apparent is that I need to make a better effort to strengthen my CSS knowledge. I will definitely be doing that once I'm done with this Vue course.
