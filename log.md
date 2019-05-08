@@ -747,3 +747,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** Introduced to Vue animations.
 
 **Thoughts:** I appreciate how simple the transition tag makes it with attaching and detaching CSS tags. However, one thing that is apparent is that I need to make a better effort to strengthen my CSS knowledge. I will definitely be doing that once I'm done with this Vue course.
+
+
+### Day 92: Wednesday, May 8th, 2019
+
+**Today's Progress:** Wrapped up Vue animations.
+
+**Thoughts:** My only takeaways from this are that I defintely need to study advanced CSS, and then probably review this section afterwards. The Vue- and JS-specific syntax was easy enough to get, but I don't totally understand CSS animation. However, that's going to wait until I totally finish Max's Vue course.
