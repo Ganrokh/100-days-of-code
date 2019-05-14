@@ -754,3 +754,10 @@ I was familiar with components after trying to learn React. I picked up componen
 **Today's Progress:** Wrapped up Vue animations.
 
 **Thoughts:** My only takeaways from this are that I defintely need to study advanced CSS, and then probably review this section afterwards. The Vue- and JS-specific syntax was easy enough to get, but I don't totally understand CSS animation. However, that's going to wait until I totally finish Max's Vue course.
+
+
+### Day 93: Tuesday, May 14th, 2019 - House flooded last week, hence the break. RIP floors.
+
+**Today's Progress:** Very first experience with backend development. Did so with Vue and Firebase.
+
+**Thoughts:** This was my first experience with backend! I was excited, still am. It was with Firebase. It seems simple enough to send and receive data. However, I think Max either zipped past the basics too fast, or assumed that the student has some backend knowledge already (which I do not, besides very basics). That makes sense, though. This is a Vue class, which is a frontend framework, and this isn't a backend class. It's something that I'll definitely want to deep dive into eventually since I do want to be a fullstack developer.
